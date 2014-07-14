@@ -1,0 +1,39 @@
+.mainContainer{
+    height: 300px;
+    display: block;
+    overflow: hidden;
+}
+.mainContainer
+
+.canvasContainer{
+	width: 100px;
+	height: 650px;
+	margin: 0;
+	padding: 0;
+    float: left;
+    border: 1px solid black;
+}
+
+.mainContainer div:last-child{
+    clear: both;
+    display: block;
+}
+input{       
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.text{
+    width: 30px;
+}
+
+input{       
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 12px;
+    padding-right: 20px;
+}
